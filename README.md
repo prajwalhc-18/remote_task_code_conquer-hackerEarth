@@ -1,5 +1,5 @@
 
-Remote Task: Code Conquer - HackerEarth >>>>>>>>>>>>>>>
+Remote Task: Code Conquer - HackerEarth 
 
 App.js
 
